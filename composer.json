@@ -13,7 +13,7 @@
         "symfony/flex": "^1.1",
         "symfony/form": "*",
         "symfony/framework-bundle": "*",
-        "symfony/monolog-bundle": "^3.1",
+        "symfony/monolog-bundle": "^3.3",
         "symfony/orm-pack": "*",
         "symfony/process": "*",
         "symfony/profiler-pack": "^1.0",
