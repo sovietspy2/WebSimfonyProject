@@ -14,7 +14,7 @@
         "symfony/form": "*",
         "symfony/framework-bundle": "*",
         "symfony/monolog-bundle": "^3.3",
-        "symfony/orm-pack": "*",
+        "symfony/orm-pack": "^1.0",
         "symfony/process": "*",
         "symfony/profiler-pack": "^1.0",
         "symfony/security-bundle": "*",
@@ -28,7 +28,7 @@
     "require-dev": {
         "symfony/debug-pack": "*",
         "symfony/dotenv": "*",
-        "symfony/maker-bundle": "^1.0",
+        "symfony/maker-bundle": "^1.7",
         "symfony/test-pack": "*",
         "symfony/web-server-bundle": "*"
     },
